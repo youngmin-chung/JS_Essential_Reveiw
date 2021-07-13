@@ -54,8 +54,3 @@
     * Pass value to a function inside the parenthesis
     * Refer to the current object as "this"
     * Assign any value to any property.# JS_Ess_Review
-
-# JS_Ess_Review
-
-# JS_Essential_Reveiw
-
